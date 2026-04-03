@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/02_BirlesikMantik.pdf
-      name: slaytlar
+    - url: https://gamma.app/docs/02-Say-Sistemleri-ssl2cea56yovwb4
+      name: İkinci Sunu
     
 
   #  - url: /static_files/presentations/code.zip
