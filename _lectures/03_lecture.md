@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/03_SiralilMantık.pdf
-      name: slaytlar
+    - url: https://gamma.app/docs/03-CMOS-Transistorleri-ve-Guc-Tuketimi-oy16hgbj2025ruj
+      name: Üçüncü Sunu
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
