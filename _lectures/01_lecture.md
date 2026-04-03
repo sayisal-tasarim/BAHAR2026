@@ -17,7 +17,7 @@ hide_from_announcments: false
 # optional
 links:
     - url: https://gamma.app/docs/01-Giris-swbkjqd5barnebx
-      name: slaytlar
+      name: İlk Sunu
   
 
   #  - url: /static_files/presentations/code.zip
