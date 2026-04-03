@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/04_DonanimTanimlamaDilleri.pdf
-      name: slaytlar
+    - url: https://gamma.app/docs/Kombinasyonel-Lojik-Tasarm-xg5d9ajfikyqv37
+      name: Dördüncü Sunu
       
 
   #  - url: /static_files/presentations/code.zip
