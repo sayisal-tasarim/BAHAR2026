@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: [/static_files/presentations/01_Giris.pdf](https://gamma.app/docs/01-Giris-swbkjqd5barnebx)
+    - url: (https://gamma.app/docs/01-Giris-swbkjqd5barnebx)
       name: slaytlar
   
 
