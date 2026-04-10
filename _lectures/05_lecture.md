@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2024-03-04T13:36:17+00:00
-title: Donanım Tanımlama Dilleri
+title: Karnaugh Haritaları(K-map)
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l4.png
 
 # optional
-tldr: "Karnaugh Haritaları(K-map)"
+# tldr: "Karnaugh Haritaları(K-map)"
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
