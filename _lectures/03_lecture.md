@@ -8,7 +8,7 @@ title: Sıralı Mantık
 thumbnail: /_images/l3.png
 
 # optional
-tldr: "Bu derste Sıralı Mantık konuları üzerinde durulacaktır."
+# tldr: "Bu derste Sıralı Mantık konuları üzerinde durulacaktır."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
