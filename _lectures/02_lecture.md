@@ -5,10 +5,10 @@ title: Bileşimsel Mantık
 
 # optional
 # please use /static_files/notes directory to store notes
-# thumbnail: /_images/l2.png
+ thumbnail: /_images/l2.png
 
 # optional
-tldr: "Bu derste Bileşimsel Mantık konusu işlenecektir."
+# tldr: "Bu derste Bileşimsel Mantık konusu işlenecektir."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
