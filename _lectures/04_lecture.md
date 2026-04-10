@@ -8,7 +8,7 @@ title: Donanım Tanımlama Dilleri
 thumbnail: /_images/l4.png
 
 # optional
-tldr: "Bu derste donanım tanımlama dillerine giriş yapılacaktır."
+tldr: "Kombinasyonel Lojik Tasarım"
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
