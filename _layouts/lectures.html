@@ -17,9 +17,10 @@ layout: page
     {% endif %}
     <div class="content">
         <span style="font-weight: bold;">{{ lecture.title }}</span><br>
-
+        {% if lecture.tldr %}    
         <strong>Açıklama:</strong> {{ lecture.tldr }}
-        <br/>
+        <br/>        
+        {% endif %}
         <strong>
         {% include lecture_links.html lecture=lecture %}
         </strong>
