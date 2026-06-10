@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://gamma.app/docs/Karnaugh-HaritalarK-map-ht3s5d2ixsnpmbi
-      name: Beşinci Sunu
+    - url: https://gamma.app/docs/Combinational-Yap-Bloklar-1o9awa5v1fhtkgg
+      name: Altıcı Sunu
       
 
   #  - url: /static_files/presentations/code.zip
