@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-04T13:36:17+00:00
-title: Karnaugh Haritaları(K-map)
+title: Combinational Yapı Blokları
 
 # optional
 # please use /static_files/notes directory to store notes
